@@ -1,5 +1,9 @@
 package com.mycompany.mavenproject1;
 
+/**
+ *
+ * @author Jorge
+ */
 public class Produto {
     private String nome;
     private double peso;
